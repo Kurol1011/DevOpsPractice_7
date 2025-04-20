@@ -1,1 +1,0 @@
-web: python myApp.py
